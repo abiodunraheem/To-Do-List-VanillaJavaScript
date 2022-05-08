@@ -1,43 +1,56 @@
-# webpack-boilerplate
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-In this project, we set up awesome books repository. our goal here was to build a a book application with html javascript and css.
+# to do List
 
-## :red_circle: Live Demo Link
+> To do list is a simple CRUD application that allows you to add, delete, update tasks that you are supposed to do.
 
-[View Live Demo](https://abiodunraheem.github.io/webpack-boilerplate/)
+## Built With
 
-## :hammer: Built With
+- HTML-5
+- CSS3
+- Javacript modules
+- Webpack
+- Linters
 
-- HTML
-- css
-- javascript
-- bootstrap
-- scss
-- linters
+## Live Demo
+
+Live site URL to my to-do-List-VanillaJavaScript
+[Live Demo Link](https://abiodunraheem.github.io/To-Do-List-VanillaJavaScript/)
 
 ## Getting Started
 
-To get a local copy, open and running follow these simple example steps:
+- To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- You only need a browser to run the html file in.
 
 ### Setup
 
-- Download or Clone Repository.
-- In case you downloaded repository Extract ZIP Folder.
+- Create a new folder to store the files in.
 
-### Installation
+### Install
 
-- One folder in your text editor.
-- Run `npm install` command to install all dependencies.
-  _N.B: Make sure that you have node installed in your commputer, if not [Download Node](https://nodejs.org/en/)_
+- Open your command prompt or terminal and run.
+- git clone git@github.com:abiodunraheem/to-do-List.git .
 
 ### Usage
 
-Navigate to the Folder and Double Click on index.html File or you can simply open project with live server in your editor.
-Project will open and running to your Browser.
+To use it run the following commands
+To get the configurations of the app run `npm install`
+To run the application run `npm start`
 
-## :blue_book: Learning Objectives
+### Run tests
 
-- Use webpack to bundle JavaScript.
+- To run tests run :
+  `npx hint .`
+  `npx stylelint "**/*.{css,scss}"`
+  ` npx eslint .`
+
+### Deployment
+
+- Project is deployed using
+- git push <branch_name>
 
 ## Author
 
@@ -49,7 +62,7 @@ Project will open and running to your Browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abiodunraheem/webpack-boilerplate).
+Feel free to check the [issues page](https://github.com/abiodunraheem/To-Do-List-VanillaJavaScript).
 
 ## Acknowledgments
 
